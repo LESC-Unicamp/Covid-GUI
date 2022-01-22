@@ -130,5 +130,5 @@ If any of the codes here available was useful to you in any way, we kindly ask f
 
 ## Reporting Errors
 <p align="justify">
-If you spot an error in the program files and all other documentation, please submit an issue report using the <a href="https://github.com/LESC-Unicamp/Covid-GUI/Issues">Issues</a> tab. 
+If you spot an error in the program files and all other documentation, please submit an issue report using the <a href="https://github.com/LESC-Unicamp/Covid-GUI/issues">Issues</a> tab. 
 </p>
