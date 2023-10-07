@@ -47,7 +47,7 @@ Luís Fernando Mercier Franco<br></p>
 
 # Introduction
 <p align="justify">
-This material is supplementary to our manuscript <i>"Molecular docking coupled with machine learning to screen inhibitors of SARS-CoV-2: A comprehensive analysis of the structure of the potential ligands (to pe published)".</i><br />
+This material is supplementary to our manuscript <i>"A Synergistic Approach of Molecular Docking and Artificial Intelligence for Drug Discovery: A Comprehensive Analysis of Ligand Structures Using SARS-CoV-2 as a Case Study (to pe published)".</i><br />
 Molecular docking simulations were carried out between two SARS-CoV-2 spike glycoprotein variants and more than 9,000 ligands. One of the spike variants was reported at the beginning of the pandemic (<a href="https://www.rcsb.org/structure/6vsb">PDB: 6VSB</a>), and the other contains mutation D614G and is fully cleaved by Furin (<a href="https://www.rcsb.org/structure/7KDJ">PDB: 7KDJ</a>), which affects the affinity of the complex ligand-spike. From the molecular docking results of each SARS-CoV-2 spike protein variant mentioned above plus the results reported by <a href="https://doi.org/10.1080/07391102.2020.1772885">de Oliveira et al. (2020)</a>, a machine learning model was trained, and can here be used for a fast prediction of the binding energy of different ligands with the spike variants. <br />
 </p><br>
 
